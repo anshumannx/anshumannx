@@ -3,9 +3,12 @@ Full Stack Software Developer
 
 🚀 About Me
 
-🔭 I’m currently working on [Project Name or Tech Focus]
+🔭 I’m currently working as a Software dev in Mohali.
+
 🌱 I’m learning .Net Aspire
+
 💬 Ask me about .NET, Angular, AWS, Databases, or anything tech-related
+
 📫 How to reach me: anshumankaushal91@gmail.com | 
 
 🛠️ Technologies and Tools
